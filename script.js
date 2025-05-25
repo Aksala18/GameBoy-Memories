@@ -199,7 +199,9 @@ const output = document.getElementById('output');
             "",
             "",
             "",
-            "A história continua...",
+            "Tudo o que vivemos até aqui só me dá mais certeza do que eu quero:",
+            "um futuro contigo.",
+            "A  nossa história irá continuar...",
         ],
         inputNeeded: false
       }
